@@ -8,7 +8,7 @@ I've been learning to code for 4 years. I started with Java, and continued with 
 
 * 🌍  I'm based in Miami
 * ✉️  You can contact me at [demet.yildirim1@gmail.com](mailto:demet.yildirim1@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm currently learning React
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
