@@ -7,9 +7,13 @@ Software Developer
 I've been learning to code for 4 years. I started with Java, and continued with Python, HTML,CSS and JavaScript. Currently learning React. I have a bachelors degree in Computer Science and I'm in the process of a career change.
 
 * 🌍  I'm based in Miami
+* 🎓 I graduated with a BS degree in Computer Science in 2023
 * ✉️  You can contact me at [demet.yildirim1@gmail.com](mailto:demet.yildirim1@gmail.com)
-* 🧠  I'm currently learning React
+* 🧠  I'm currently in TripleTen bootcamp to sharpen my coding skills
 * 🤝  I'm open to collaborating on projects
+* 🥅  I love reading. I read 50 books in 2023
+
+
 
 ### Skills
 
