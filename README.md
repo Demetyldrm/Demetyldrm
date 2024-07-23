@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I've been learning to code for 4 years. I started with Java, and continued with Python, HTML,CSS and JavaScript. Currently learning React. I have a bachelors degree in Computer Science and I'm in the process of a career change.
+I'm a full stack web developer.I started my programming journey with Java, and continued with Python, HTML,CSS and JavaScript. Currently learning React. I have a bachelors degree in Computer Science.
 
 * 🌍  I'm based in Miami
 * 🎓 I graduated with a BS degree in Computer Science in 2023
