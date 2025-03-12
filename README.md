@@ -11,7 +11,7 @@ I'm a full stack web developer.I started my programming journey with Java, and c
 * ✉️  You can contact me at [demet.yildirim1@gmail.com](mailto:demet.yildirim1@gmail.com)
 * 🧠  I'm currently in TripleTen bootcamp to sharpen my coding skills
 * 🤝  I'm open to collaborating on projects
-* 🥅    I love reading. I read 50 books in 2023
+* 🥅    I love reading. I read 50 books in 2024
 
 
 
