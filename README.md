@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I'm a full stack web developer.I started my programming journey with Java, and continued with Python, HTML,CSS and JavaScript. Currently learning React. I have a bachelors degree in Computer Science.
+I'm a full stack web developer.I started my programming journey with Java, and continued with Python, HTML,CSS and JavaScript and React. I have a bachelors degree in Computer Science.
 
 * 🌍  I'm based in Miami
 * 🎓 I graduated with a BS degree in Computer Science in 2023
 * ✉️  You can contact me at [demet.yildirim1@gmail.com](mailto:demet.yildirim1@gmail.com)
-* 🧠  I'm currently in TripleTen bootcamp to sharpen my coding skills
 * 🤝  I'm open to collaborating on projects
 * 🥅    I love reading. I read 50 books in 2024
 
